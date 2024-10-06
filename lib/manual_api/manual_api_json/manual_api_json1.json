@@ -1,0 +1,27 @@
+{
+
+  "Name":"Muhammad Arslan",
+  "RollNo":"204",
+  "Degree": "CS",
+  "Skills":["Flutter", "Android", "Basic Web"],
+  "Attributes": {
+        "Name": "Muhammad Arslan",
+        "Qualification": "BS",
+        "City": "Nan-kana Sahib"
+  },
+  "Companies": [
+    {
+      "No.":1,
+      "Company": "Net Sole Pk"
+    },
+    {
+      "No.":2,
+      "Company": "MicroSoft USA"
+    },
+    {
+      "No.":3,
+      "Company": "Google USA"
+    }
+  ]
+
+}
